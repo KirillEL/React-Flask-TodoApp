@@ -1,0 +1,29 @@
+.App__input-1 {
+    display: block;
+    padding: 10px 15px;
+    width: 90%;
+    margin: 25px auto;
+    background: transparent;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.App__input-1::placeholder {
+    color: white;
+    font-weight: 700;
+}
+
+.App__input-0 {
+    display: block;
+    padding: 10px 15px;
+    width: 90%;
+    margin: 25px auto;
+    background: transparent;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.App__input-0::placeholder {
+    font-weight: 700;
+}
